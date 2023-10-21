@@ -11,6 +11,8 @@ import { AppRoutingModule } from './app.routing';
 import { CadastroFuncionariosComponent } from './components/pages/cadastro-funcionarios/cadastro-funcionarios.component';
 import { ConsultaFuncionariosComponent } from './components/pages/consulta-funcionarios/consulta-funcionarios.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { CadastroFornecedoresComponent } from './components/pages/cadastro-fornecedores/cadastro-fornecedores.component';
+import { ConsultaFornecedoresComponent } from './components/pages/consulta-fornecedores/consulta-fornecedores.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     ConsultaAlunosComponent,
     EdicaoAlunosComponent,
     CadastroFuncionariosComponent,
-    ConsultaFuncionariosComponent
+    ConsultaFuncionariosComponent,
+    CadastroFornecedoresComponent,
+    ConsultaFornecedoresComponent
   ],
   imports: [
     BrowserModule,

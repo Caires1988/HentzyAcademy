@@ -6,6 +6,8 @@ import { EdicaoAlunosComponent } from "./components/pages/edicao-alunos/edicao-a
 
 import { NgModule } from "@angular/core";
 import { ConsultaFuncionariosComponent } from './components/pages/consulta-funcionarios/consulta-funcionarios.component';
+import { CadastroFornecedoresComponent } from './components/pages/cadastro-fornecedores/cadastro-fornecedores.component';
+import { ConsultaFornecedoresComponent } from './components/pages/consulta-fornecedores/consulta-fornecedores.component';
 
 
 // mapeamento das rotas do projeto
@@ -15,6 +17,8 @@ const routes: Routes = [
 { path: 'pages/edicao-alunos', component: EdicaoAlunosComponent },
 {path: 'pages/cadastro-funcionarios', component: CadastroFuncionariosComponent},
 {path: 'pages/consultar-funcionarios', component: ConsultaFuncionariosComponent},
+{path: 'pages/cadastro-fornecedores', component: CadastroFornecedoresComponent},
+{path: 'pages/consultar-fornecedores', component: ConsultaFornecedoresComponent},
 { path: '', pathMatch: 'full', redirectTo:'pages/consulta-alunos' }
 
 ];
