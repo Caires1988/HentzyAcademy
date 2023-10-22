@@ -1,0 +1,24 @@
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Domain\bin\Debug\net6.0\Academy.Domain.deps.json
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Domain\bin\Debug\net6.0\Academy.Domain.dll
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Domain\bin\Debug\net6.0\Academy.Domain.pdb
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.csproj.AssemblyReference.cache
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.AssemblyInfoInputs.cache
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.AssemblyInfo.cs
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.csproj.CoreCompileInputs.cache
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.dll
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Domain\obj\Debug\net6.0\refint\Academy.Domain.dll
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.pdb
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Domain\obj\Debug\net6.0\ref\Academy.Domain.dll
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Domain\bin\Debug\net6.0\Academy.Domain.deps.json
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Domain\bin\Debug\net6.0\Academy.Domain.dll
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Domain\bin\Debug\net6.0\Academy.Domain.pdb
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.csproj.AssemblyReference.cache
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.AssemblyInfoInputs.cache
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.AssemblyInfo.cs
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.csproj.CoreCompileInputs.cache
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.dll
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Domain\obj\Debug\net6.0\refint\Academy.Domain.dll
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Domain\obj\Debug\net6.0\Academy.Domain.pdb
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Domain\obj\Debug\net6.0\ref\Academy.Domain.dll

@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { AlunosServiceService } from 'src/app/services/alunos.service.service';
 import { Aluno } from 'src/app/shared/model/aluno-model';
 
 @Component({
@@ -11,32 +12,12 @@ export class ConsultaAlunosComponent implements OnInit {
   alunos: Aluno[] = []
   quantidadeDeAlunos: number = 0
 
-  constructor(){}
+  constructor(private alunosService: AlunosServiceService){}
 
   ngOnInit(): void {
-    this.alunos = [
-
-      {
-        nome: 'Cláudia Soares',
-        idade: 23,
-        observacoes:'Aluno apto à se exercitar'
-      },
-
-
-
-      {
-        nome: 'Joaquin Silva',
-        idade: 55,
-        observacoes:'Aluno inapto à se exercitar'
-      },
-
-
-      {
-        nome: 'Rita Ribeiro',
-        idade: 18,
-        observacoes:'Aluno apto à se exercitar'
-      },
-    ];
+    this.alunosService.getAllAlunos().subscribe(data => {
+      this.alunos = data
+    })
 
     this.quantidadeDeAlunos = this.alunos.length;
 

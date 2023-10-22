@@ -1,0 +1,30 @@
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\bin\Debug\net6.0\Academy.Infra.deps.json
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\bin\Debug\net6.0\Academy.Infra.dll
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\bin\Debug\net6.0\Academy.Infra.pdb
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\bin\Debug\net6.0\Academy.Domain.dll
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\bin\Debug\net6.0\Academy.Domain.pdb
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.csproj.AssemblyReference.cache
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.AssemblyInfoInputs.cache
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.AssemblyInfo.cs
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.csproj.CoreCompileInputs.cache
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.csproj.CopyComplete
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.dll
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\obj\Debug\net6.0\refint\Academy.Infra.dll
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.pdb
+C:\AcademiaMusculosja\MusculosJaSystem\BackEnd\Academy.Infra\obj\Debug\net6.0\ref\Academy.Infra.dll
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\bin\Debug\net6.0\Academy.Infra.deps.json
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\bin\Debug\net6.0\Academy.Infra.dll
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\bin\Debug\net6.0\Academy.Infra.pdb
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\bin\Debug\net6.0\Academy.Domain.dll
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\bin\Debug\net6.0\Academy.Domain.pdb
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.csproj.AssemblyReference.cache
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.AssemblyInfoInputs.cache
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.AssemblyInfo.cs
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.csproj.CoreCompileInputs.cache
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.csproj.CopyComplete
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.dll
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\obj\Debug\net6.0\refint\Academy.Infra.dll
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\obj\Debug\net6.0\Academy.Infra.pdb
+C:\Projeto Academia\HentzyAcademy\BackEnd\Academy.Infra\obj\Debug\net6.0\ref\Academy.Infra.dll

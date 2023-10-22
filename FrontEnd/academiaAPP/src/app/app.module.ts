@@ -13,6 +13,7 @@ import { ConsultaFuncionariosComponent } from './components/pages/consulta-funci
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { CadastroFornecedoresComponent } from './components/pages/cadastro-fornecedores/cadastro-fornecedores.component';
 import { ConsultaFornecedoresComponent } from './components/pages/consulta-fornecedores/consulta-fornecedores.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -30,8 +31,8 @@ import { ConsultaFornecedoresComponent } from './components/pages/consulta-forne
     BrowserModule,
     AppRoutingModule, //Adicionando as configurações das rotas
     FormsModule, //Para utilizar formulários
-    ReactiveFormsModule //Para utilizar formulários reativos
-
+    ReactiveFormsModule, //Para utilizar formulários reativos
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
